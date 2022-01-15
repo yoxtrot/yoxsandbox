@@ -66,7 +66,7 @@
     "redux-promise": "^0.5.3",
     "redux-thunk": "^2.2.0",
     "set-interval": "^2.0.0",
-    "shelljs": "^0.7.7"
+    "shelljs": "^0.8.5"
   },
   "deprecated": false,
   "description": "create react redux app structure with build configurations",
